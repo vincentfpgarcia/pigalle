@@ -14,8 +14,8 @@
 
     <nav>
       <a href="index.html">The project</a>
-      <a href="index.html">Video intro</a>
-      <a href="demo.html">Video demo</a>
+      <a href="intro.html">Intro video</a>
+      <a href="demo.html">Demo video</a>
       <a href="https://github.com/vincentfpgarcia/mobilenet-v3-package">Code demo</a>
     </nav>
 
