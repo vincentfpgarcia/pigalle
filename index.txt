@@ -1,0 +1,18 @@
+<p>A collection of AI models built upon two fundamental principles: seamless integration and on-device model inference.</p>
+
+<p>At our core, we are driven by a mission to revolutionize local inference, bridging the gap between AI expertise and app development.</p>
+
+<p>Here's why our solution stands out:</p>
+<ul>
+    <li>Empowering developers: With our platform, even developers with no prior AI knowledge can effortlessly utilize and experiment with complex AI models within seconds. This unlocks a world of untapped creative potential and enables the realization of innovative ideas.</li>
+    <li>Rapid iteration: By eliminating the need for cloud AI infrastructure, our solution enables companies to iterate faster, working with leaner teams without compromising on product quality.</li>
+    <li>The icing on the cake: Leveraging local inference not only ensures 0$ GPU cloud costs, enhanced scalability and inherent security but also promises reduced latency, improved carbon footprint, offline processing capabilities, and more.</li>
+</ul>
+
+<p>At Pigalle, we're committed to continuously expanding our collection of AI models. Our dedicated team will relentlessly iterate on these models, striving to make them smaller, faster, and better than ever before.</p>
+
+<p>But we won't stop there.</p>
+
+<p>Our vision is ambitious: we aspire to become the world's leading experts in optimized AI models for local inference. We'll proudly introduce groundbreaking models that run seamlessly on devices, setting new standards in the industry.</p>
+
+<p>Local inference is poised to shape the future of AI, and we are determined to be its standard bearer.</p>
